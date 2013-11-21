@@ -138,8 +138,6 @@ public class ColorGradientPanel extends javax.swing.JPanel {
             method = 0;
         }
         
-        // stuff
-        
         int colorSpace = 0;
         switch (colorSpaceComboBox.getSelectedIndex())
         {
